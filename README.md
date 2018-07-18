@@ -1,0 +1,1 @@
+![screenshot](accelerometersensor.png)
